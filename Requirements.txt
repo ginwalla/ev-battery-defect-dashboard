@@ -3,3 +3,4 @@ numpy
 matplotlib
 streamlit
 scikit-learn
+seaborn>=0.12.0
