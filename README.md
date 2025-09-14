@@ -1,4 +1,3 @@
-# EV Battery Defect Detection — Streamlit Portfolio Demo
 
 # EV Battery Defect Detection — Streamlit Portfolio Demo
 
