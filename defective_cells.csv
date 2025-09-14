@@ -1,0 +1,4 @@
+cell_id,temperature,voltage,current
+C001,48,3.01,0.85
+C015,49,3.54,1.17
+C018,52,3.68,1.59
