@@ -1,5 +1,11 @@
 # EV Battery Defect Detection — Streamlit Portfolio Demo
 
+# EV Battery Defect Detection — Streamlit Portfolio Demo
+
+[![Streamlit App](https://static.streamlit.io/badges/streamlit_badge_black_white.svg)](https://ginwalla-ev-battery-defect-dashboard.streamlit.app)
+![Python](https://img.shields.io/badge/python-3.9%2B-blue)
+![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)
+
 **Short pitch**  
 Interactive Streamlit demo that showcases a lightweight pipeline to detect defective EV battery cells from sensor logs. Includes data upload, synthetic data generator, validation, a model playground (demo), lightweight explainability, and PPTX export.
 
