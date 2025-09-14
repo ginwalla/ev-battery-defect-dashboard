@@ -8,7 +8,7 @@ Interactive Streamlit demo that showcases a lightweight pipeline to detect defec
 ## Live demo
 (If you deploy) Live app: **`<paste your Streamlit URL here>`**
 
-## Loom demo (2–3 min)
+## Loom demo (4-5 min)
 Watch: **`https://www.loom.com/share/e9eb163f4e8a4de6a5be49afc1b2f4ca?sid=15fbb21a-4ecb-4b07-a1fe-e4328dd12875`**
 
 ---
