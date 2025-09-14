@@ -49,14 +49,14 @@ cd ev-battery-defect-dashboard
 ![Home screenshot](assets/Export.png)
 
 ### Validation — Data Health Checks
-![Validation - Data Health Checks](assets/Validation - Data Health Checks.png)
+![Validation - Data Health Checks](assets/Validation_Data_Health_Checks.png)
 
 ### Validation — Histogram & Heatmap
-![Validation - Histogram](assets/Validation - Histogram.png)
-![Validation - Heatmap](assets/Validation - Heat Map.png)
+![Validation - Histogram](assets/Validation_Histogram.png)
+![Validation - Heatmap](assets/Validation_Heat_Map.png)
 
 ### Model Playground
-![Model Playground screenshot](assets/Model Playground.png)
+![Model Playground screenshot](assets/Model_Playground.png)
 
 ### Export / PPTX
 ![PPTX Export screenshot](assets/Export.png)
