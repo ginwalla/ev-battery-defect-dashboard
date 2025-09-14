@@ -41,3 +41,22 @@ Architecture exported PNG used in PPTX
 ```bash
 git clone https://github.com/YOUR_USERNAME/ev-battery-defect-dashboard.git
 cd ev-battery-defect-dashboard
+
+
+## Screenshots
+
+### Home / Data Source
+![Home screenshot](assets/Export.png)
+
+### Validation — Data Health Checks
+![Validation - Data Health Checks](assets/Validation - Data Health Checks.png)
+
+### Validation — Histogram & Heatmap
+![Validation - Histogram](assets/Validation - Histogram.png)
+![Validation - Heatmap](assets/Validation - Heat Map.png)
+
+### Model Playground
+![Model Playground screenshot](assets/Model Playground.png)
+
+### Export / PPTX
+![PPTX Export screenshot](assets/Export.png)
